@@ -167,7 +167,7 @@ header {
   max-height: 65vh;
   height: 65dvh;
 
-  background-image: url(/TRIAL/static_trial/fruits.jpg);
+  background-image: url(resources/fruits.jpg);
   background-position: center;
   background-repeat: no-repeat;
   background-size: cover;
@@ -278,7 +278,7 @@ section h1 {
     .abt_img {
       width: 90%;
       height: 70%;
-      background-image: url(/TRIAL/static_trial/fruits.jpg);
+      background-image: url(resources/fruits.jpg);
       background-position: center;
       background-repeat: no-repeat;
       background-size: cover;
@@ -367,7 +367,7 @@ section h1 {
   gap: 5rem;
 }
 .prod_img_holder {
-  background-image: url(/TRIAL/static_trial/fruits.jpg);
+  background-image: url(resources/fruits.jpg);
   background-position: center;
   background-repeat: no-repeat;
   background-size: cover;
